@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "649125965475",
+    "project_id": "netcamp-project-d918a",
+    "storage_bucket": "netcamp-project-d918a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649125965475:android:b10bf8ca2c74d1940c9916",
+        "android_client_info": {
+          "package_name": "com.example.netcampproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649125965475-g358guqbkp843tjjdan487hlvuf78ell.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.netcampproject",
+            "certificate_hash": "fef189bad05638ba3fec292a120e9a2e523314e7"
+          }
+        },
+        {
+          "client_id": "649125965475-n0jldb8avq399s41ier04e8nrftd15lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMD6pqQxQMjx7S22lNF3BBm6F4mk0K5ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649125965475-n0jldb8avq399s41ier04e8nrftd15lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
